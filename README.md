@@ -14,7 +14,7 @@ This is a JavaScript mini project created by Parth that allows users to search f
 
 ### How to Use
 
-> pen the index.html file in your web browser. <br>
+> Open the index.html file in your web browser. <br>
 > In the search bar, enter the keyword or topic you want to search for. <br>
 > Hit the "Search" button. <br>
 > The project will fetch and display a list of news articles related to the keyword you entered.
