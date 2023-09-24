@@ -2,7 +2,7 @@
 
 [News API](https://newsapi.org/)
 
-> Kindly API Key from this website and paste it in the 'apiKey' variable value in script.js file.
+> Kindly change API Key from this website and paste it in the 'apiKey' variable value in script.js file.
 
 ### Overview
 
